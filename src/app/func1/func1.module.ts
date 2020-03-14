@@ -1,6 +1,7 @@
-import {Ngmodule} from '@angular/core';
+import {CommonModule} from '@angular/common';
+import {NgModule} from '@angular/core';
 
-@Ngmodule ({
+@NgModule ({
 
 declarations: [], //Components do Móódulo...
 exports: [], // Components visííveis a outros móódulos
