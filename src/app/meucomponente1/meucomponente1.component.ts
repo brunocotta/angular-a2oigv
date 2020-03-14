@@ -8,6 +8,6 @@ styleUrls: []
 })
 
 
-export class MeuComponente1component {
+export class MeuComponente1Component {
 
 }
